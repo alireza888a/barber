@@ -1,0 +1,5 @@
+{
+  "name": "Barbershop Booking App",
+  "description": "A modern, bilingual (Persian/English) web application for booking appointments at a men's barbershop. Users can select services, choose a date and time, and confirm their appointment in a seamless, multi-step process.",
+  "requestFramePermissions": []
+}
